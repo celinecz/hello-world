@@ -1,2 +1,2 @@
 # hello-world
-Improving a little every day!
+Improving a little every day
